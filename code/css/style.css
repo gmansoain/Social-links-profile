@@ -60,12 +60,14 @@ main {
     align-items: center;
 }
 
-.author-profile-card {
-    max-width: 39.5rem;
+.author-profile-card {    
+    width: 39.5rem;
+    max-width: 100%;
     margin: 1rem;
     background-color: var(--dark-color-2);
     border-radius: var(--radius-sm);
     padding: 3.6rem;
+    
 }
 
 .author-img {
