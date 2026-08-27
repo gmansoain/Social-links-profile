@@ -4,6 +4,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
+- [About this project](#about-this-project)
+  - [How to view this solution](#how-to-view-this-solution)
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -17,6 +19,17 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+## About this project
+
+**Social links profile** is a beginner-level [Frontend Mentor](https://www.frontendmentor.io) challenge. The task is to build a single, self-contained **profile card** — avatar, name, location, a short bio, and a vertical list of social links — matching a provided design as closely as possible, and giving every interactive element clear **hover and focus states**. It's a compact exercise in semantic HTML, responsive layout, and accessible UI.
+
+This repository is my solution, built with plain **HTML and CSS** — no frameworks and no build step.
+
+### How to view this solution
+
+- **Live demo:** [gon-social-links-profile.netlify.app](https://gon-social-links-profile.netlify.app/)
+- **Run it locally:** clone this repo and open `code/index.html` in any web browser — there are no dependencies to install.
+
 ## Overview
 
 ### The challenge
@@ -27,7 +40,8 @@ Users should be able to:
 
 ### Screenshot
 
-![[Pasted image 20260827184808.png]]
+![Screenshot of the Social links profile solution](./screenshot.png)
+
 ### Links
 
 - Solution URL: https://github.com/gmansoain/Social-links-profile.git
@@ -117,10 +131,7 @@ I used **Claude** (via an Obsidian-integrated assistant) as a **learning partner
 - **What I'd watch for:** It intentionally withheld direct answers, so progress took more effort — which was the point, but worth knowing if you're in a hurry.
 
 ## Author
-
-<!-- FILL IN: add/remove/edit the lines below with your own links -->
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Website - [Your name](https://www.your-site.com)
+- Frontend Mentor - [@gmansoain](https://www.frontendmentor.io/profile/gmansoain)
 
 ## Acknowledgments
 
