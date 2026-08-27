@@ -143,3 +143,15 @@ main {
 }
 
 
+.attribution {
+    max-width: 144rem;
+    margin: 0 auto;
+    text-align: center;
+    color: var(--light-color);
+    padding: 0 1.6rem;
+}
+
+.attribution a {
+    color: var(--main-color);
+    text-decoration: none;
+}
